@@ -18,19 +18,24 @@ const Footer = () => {
               <h3>Services</h3>
               <ul>
                 <li>
-                  <Link to="/services/seo">SEO</Link>
+                  <Link to="/services/seo">Social Media Development</Link>
                 </li>
                 <li>
-                  <Link to="/services/ppc">PPC</Link>
+                  <Link to="/services/ppc">Advertisements & Campaigns</Link>
                 </li>
                 <li>
-                  <Link to="/services/social-media">Social Media</Link>
+                  <Link to="/services/social-media">creative Reel Production</Link>
                 </li>
                 <li>
-                  <Link to="/services/web-design">Web Design</Link>
+                  <Link to="/services/web-design">Professional Voice - Over Services</Link>
                 </li>
                 <li>
-                  <Link to="/services/content-marketing">Content Marketing</Link>
+                  <Link to="/services/content-marketing">Stunning Poster Design</Link>
+                </li>
+                <li>
+                  <Link to="/services/content-marketing">Offline Media & Printing</Link>
+                </li> <li>
+                  <Link to="/services/content-marketing">website design & Development</Link>
                 </li>
               </ul>
             </div>

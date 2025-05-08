@@ -47,9 +47,9 @@ const Home = () => {
         </div>
       </section>
 
-      <Portfolio />
+      {/* <Portfolio />
       <Testimonials />
-      <BlogHighlights />
+      <BlogHighlights /> */}
 
       <section className="contact-cta-section">
         <div className="container">
