@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "position": "Marketing Director",
+      "company": "TechPro Electronics",
+      "avatar": "/src/assets/images/testimonial-1.jpg",
+      "testimonial": "Working with Thrive Agency has been a game-changer for our business. Their SEO strategy increased our organic traffic by 95% and our sales by 55%. Their team is responsive, knowledgeable, and truly cares about our success. I highly recommend them to any business looking to grow their online presence."
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "position": "CEO",
+      "company": "Mountain View Resort",
+      "avatar": "/src/assets/images/testimonial-2.jpg",
+      "testimonial": "The website redesign by Thrive Agency exceeded our expectations. Not only is it visually stunning, but it's also functional and user-friendly. Since launching the new site, our online bookings have increased by 45% and our customers consistently compliment the ease of use. Their team was professional and delivered on time and within budget."
+    },
+    {
+      "id": 3,
+      "name": "Jennifer Lee",
+      "position": "Owner",
+      "company": "Bright Smile Dental",
+      "avatar": "/src/assets/images/testimonial-3.jpg",
+      "testimonial": "As a dental practice, we needed a website that was informative yet approachable. Thrive Agency delivered exactly what we needed. The online appointment booking system has reduced our administrative workload significantly, and new patient inquiries have increased by 60%. Their team was a pleasure to work with from start to finish."
+    },
+    {
+      "id": 4,
+      "name": "David Wilson",
+      "position": "Marketing Manager",
+      "company": "GreenTech Solutions",
+      "avatar": "/src/assets/images/testimonial-4.jpg",
+      "testimonial": "Thrive Agency's SEO expertise has transformed our online visibility. In a competitive industry like renewable energy, ranking well is crucial. Their team helped us achieve first-page rankings for 75% of our target keywords, resulting in a 120% increase in organic traffic and 85% more leads. Their detailed monthly reports and strategic recommendations have been invaluable."
+    },
+    {
+      "id": 5,
+      "name": "Amanda Chen",
+      "position": "Digital Marketing Specialist",
+      "company": "Urban Eats Restaurant Group",
+      "avatar": "/src/assets/images/testimonial-5.jpg",
+      "testimonial": "The PPC campaign managed by Thrive Agency delivered exceptional results for our restaurant group. With a 320% ROI and a 15% conversion rate, we've seen a significant increase in online orders. Their team's attention to detail, from keyword selection to ad copy and landing page optimization, made all the difference. We're continuing to expand our work with them."
+    }
+  ]
+  

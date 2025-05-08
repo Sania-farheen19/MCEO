@@ -1,0 +1,176 @@
+[
+    {
+      "id": 1,
+      "title": "Mountain View Resort Website Redesign",
+      "slug": "mountain-view-resort",
+      "category": "web-design",
+      "image": "/src/assets/images/portfolio-1.jpg",
+      "client": "Mountain View Resort",
+      "completionDate": "January 2023",
+      "shortDescription": "Complete website redesign with booking functionality for a luxury mountain resort.",
+      "fullDescription": "Mountain View Resort needed a complete website overhaul to showcase their luxury accommodations and streamline their booking process. We designed and developed a responsive website with stunning visuals, intuitive navigation, and a seamless booking system. The result was a 45% increase in online bookings and a 30% decrease in booking abandonment rate.",
+      "services": ["Web Design", "UX/UI Design", "Custom Development", "Booking System Integration"],
+      "results": [
+        "45% increase in online bookings",
+        "30% decrease in booking abandonment rate",
+        "65% increase in mobile traffic",
+        "3.5 minute average session duration (up from 1.2 minutes)"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "GreenTech Solutions SEO Campaign",
+      "slug": "greentech-solutions",
+      "category": "seo",
+      "image": "/src/assets/images/portfolio-2.jpg",
+      "client": "GreenTech Solutions",
+      "completionDate": "March 2023",
+      "shortDescription": "Comprehensive SEO strategy for a renewable energy technology company.",
+      "fullDescription": "GreenTech Solutions was struggling to rank for competitive keywords in the renewable energy sector. We implemented a comprehensive SEO strategy including technical SEO fixes, content optimization, and link building. Within six months, they ranked on page one for 75% of their target keywords, resulting in a 120% increase in organic traffic and 85% more leads from organic search.",
+      "services": ["SEO Audit", "Keyword Research", "On-Page Optimization", "Content Strategy", "Link Building"],
+      "results": [
+        "120% increase in organic traffic",
+        "85% increase in leads from organic search",
+        "First page rankings for 75% of target keywords",
+        "Featured snippets for 12 high-value keywords"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Urban Eats PPC Campaign",
+      "slug": "urban-eats",
+      "category": "ppc",
+      "image": "/src/assets/images/portfolio-3.jpg",
+      "client": "Urban Eats Restaurant Group",
+      "completionDate": "May 2023",
+      "shortDescription": "Targeted PPC campaign for a restaurant group to increase online orders.",
+      "fullDescription": "Urban Eats Restaurant Group wanted to increase their online food orders across their chain of restaurants. We created a targeted Google Ads campaign focusing on local keywords, mobile users, and peak ordering times. The campaign achieved a 320% ROI with a 15% conversion rate, resulting in a significant increase in online orders and new customers.",
+      "services": [
+        "Google Ads Management",
+        "Keyword Research",
+        "Ad Copywriting",
+        "Landing Page Optimization",
+        "Conversion Tracking"
+      ],
+      "results": [
+        "320% return on ad spend",
+        "15% conversion rate (industry average is 4.2%)",
+        "42% increase in online orders",
+        "28% of orders came from new customers"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "FitLife Social Media Campaign",
+      "slug": "fitlife",
+      "category": "social-media",
+      "image": "/src/assets/images/portfolio-4.jpg",
+      "client": "FitLife Gym",
+      "completionDate": "July 2023",
+      "shortDescription": "Engaging social media strategy for a fitness center to increase memberships.",
+      "fullDescription": "FitLife Gym needed to increase their membership sign-ups and engage with their existing members. We developed a comprehensive social media strategy across Instagram, Facebook, and TikTok, featuring workout videos, success stories, and promotional offers. The campaign resulted in a 75% increase in engagement, 12,000 new followers, and a 35% increase in membership inquiries.",
+      "services": [
+        "Social Media Strategy",
+        "Content Creation",
+        "Community Management",
+        "Influencer Partnerships",
+        "Paid Social Advertising"
+      ],
+      "results": [
+        "75% increase in social media engagement",
+        "12,000 new followers across platforms",
+        "35% increase in membership inquiries",
+        "28% of new members cited social media as their discovery source"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Bright Smile Dental Website",
+      "slug": "bright-smile-dental",
+      "category": "web-design",
+      "image": "/src/assets/images/portfolio-5.jpg",
+      "client": "Bright Smile Dental",
+      "completionDate": "August 2023",
+      "shortDescription": "Modern, patient-friendly website for a dental practice with online appointment booking.",
+      "fullDescription": "Bright Smile Dental needed a website that would showcase their services, educate patients, and allow for easy appointment booking. We designed a modern, user-friendly website with detailed service pages, patient testimonials, and an integrated appointment booking system. The new website resulted in a 60% increase in appointment requests and improved patient satisfaction.",
+      "services": ["Web Design", "Content Creation", "Appointment System Integration", "Mobile Optimization"],
+      "results": [
+        "60% increase in online appointment requests",
+        "50% reduction in appointment scheduling phone calls",
+        "4.8/5 average user satisfaction rating",
+        "2.5x increase in website traffic"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "TechPro E-commerce SEO",
+      "slug": "techpro",
+      "category": "seo",
+      "image": "/src/assets/images/portfolio-6.jpg",
+      "client": "TechPro Electronics",
+      "completionDate": "October 2023",
+      "shortDescription": "E-commerce SEO strategy for an electronics retailer to increase product visibility and sales.",
+      "fullDescription": "TechPro Electronics was struggling with low organic visibility for their product pages. We implemented a comprehensive e-commerce SEO strategy focusing on product page optimization, schema markup, and category page enhancements. The campaign resulted in a 95% increase in organic traffic, 70% more product page visibility, and a 55% increase in organic sales.",
+      "services": [
+        "E-commerce SEO Audit",
+        "Product Page Optimization",
+        "Schema Markup Implementation",
+        "Internal Linking Strategy"
+      ],
+      "results": [
+        "95% increase in organic traffic",
+        "70% increase in product page visibility",
+        "55% increase in sales from organic search",
+        "42% improvement in average position for target keywords"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Luxury Homes Real Estate PPC",
+      "slug": "luxury-homes",
+      "category": "ppc",
+      "image": "/src/assets/images/portfolio-7.jpg",
+      "client": "Luxury Homes Real Estate",
+      "completionDate": "November 2023",
+      "shortDescription": "Targeted PPC campaign for a luxury real estate agency to generate high-quality leads.",
+      "fullDescription": "Luxury Homes Real Estate wanted to generate high-quality leads for their premium properties. We created a sophisticated PPC campaign targeting high-net-worth individuals with specific interests and behaviors. The campaign achieved a 450% ROI with a 12% lead conversion rate, resulting in multiple high-value property sales.",
+      "services": [
+        "Google Ads & Microsoft Ads",
+        "Audience Targeting",
+        "Ad Copywriting",
+        "Landing Page Design",
+        "Lead Tracking"
+      ],
+      "results": [
+        "450% return on ad spend",
+        "12% lead conversion rate",
+        "28 high-value property inquiries",
+        "5 direct sales attributed to the campaign"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Organic Harvest Social Media",
+      "slug": "organic-harvest",
+      "category": "social-media",
+      "image": "/src/assets/images/portfolio-8.jpg",
+      "client": "Organic Harvest Foods",
+      "completionDate": "December 2023",
+      "shortDescription": "Engaging social media content strategy for an organic food brand to increase brand awareness and sales.",
+      "fullDescription": "Organic Harvest Foods wanted to increase brand awareness and drive sales for their range of organic products. We developed a content-rich social media strategy featuring recipe videos, farm-to-table stories, and educational content about organic farming. The campaign resulted in a 110% increase in engagement, 25,000 new followers, and a 45% increase in website traffic from social channels.",
+      "services": [
+        "Social Media Strategy",
+        "Video Content Creation",
+        "Influencer Partnerships",
+        "Social Media Advertising",
+        "Community Management"
+      ],
+      "results": [
+        "110% increase in social media engagement",
+        "25,000 new followers across platforms",
+        "45% increase in website traffic from social channels",
+        "38% increase in online sales attributed to social media"
+      ]
+    }
+  ]
+  

@@ -1,0 +1,91 @@
+[
+    {
+      "id": 1,
+      "title": "10 SEO Strategies That Will Boost Your Rankings in 2023",
+      "slug": "seo-strategies-2023",
+      "author": "David Wilson",
+      "date": "December 15, 2023",
+      "category": "SEO",
+      "image": "/src/assets/images/blog-1.jpg",
+      "excerpt": "Discover the most effective SEO strategies for 2023 that will help your website climb the search engine rankings and drive more organic traffic.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 2,
+      "title": "How to Create a Social Media Strategy That Actually Works",
+      "slug": "effective-social-media-strategy",
+      "author": "Jennifer Lee",
+      "date": "November 28, 2023",
+      "category": "Social Media",
+      "image": "/src/assets/images/blog-2.jpg",
+      "excerpt": "Learn how to develop a social media strategy that engages your audience, builds your brand, and drives measurable results for your business.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 3,
+      "title": "The Ultimate Guide to Google Ads: Tips for Maximum ROI",
+      "slug": "google-ads-roi-guide",
+      "author": "Michael Rodriguez",
+      "date": "November 10, 2023",
+      "category": "PPC",
+      "image": "/src/assets/images/blog-3.jpg",
+      "excerpt": "Maximize your Google Ads ROI with these expert tips on campaign structure, keyword research, ad copywriting, and conversion optimization.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 4,
+      "title": "Website Design Trends to Watch in 2024",
+      "slug": "web-design-trends-2024",
+      "author": "Sarah Johnson",
+      "date": "October 22, 2023",
+      "category": "Web Design",
+      "image": "/src/assets/images/blog-4.jpg",
+      "excerpt": "Stay ahead of the curve with these emerging web design trends that will dominate in 2024, from 3D elements to micro-interactions and more.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 5,
+      "title": "Content Marketing: How to Create Content That Converts",
+      "slug": "content-marketing-conversion",
+      "author": "Amanda Chen",
+      "date": "October 5, 2023",
+      "category": "Content Marketing",
+      "image": "/src/assets/images/blog-5.jpg",
+      "excerpt": "Learn how to create high-quality content that not only attracts your target audience but also converts them into customers for your business.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 6,
+      "title": "Email Marketing Best Practices for Higher Open Rates",
+      "slug": "email-marketing-open-rates",
+      "author": "David Wilson",
+      "date": "September 18, 2023",
+      "category": "Email Marketing",
+      "image": "/src/assets/images/blog-6.jpg",
+      "excerpt": "Improve your email open rates with these proven best practices for subject lines, personalization, timing, and email design.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 7,
+      "title": "Local SEO: How to Dominate in Your Local Market",
+      "slug": "local-seo-domination",
+      "author": "Jennifer Lee",
+      "date": "September 2, 2023",
+      "category": "SEO",
+      "image": "/src/assets/images/blog-7.jpg",
+      "excerpt": "Discover strategies to improve your local search visibility, optimize your Google Business Profile, and attract more local customers.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 8,
+      "title": "The Power of Video Marketing: Why Your Business Needs It",
+      "slug": "video-marketing-importance",
+      "author": "Michael Rodriguez",
+      "date": "August 15, 2023",
+      "category": "Video Marketing",
+      "image": "/src/assets/images/blog-8.jpg",
+      "excerpt": "Learn why video marketing is essential for your business growth and how to create effective video content that engages your audience.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+  ]
+  

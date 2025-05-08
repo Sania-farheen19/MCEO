@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "Social Media Development",
+    "slug": "seo",
+    "icon": "/src/assets/icons/socialmedia-icon.png",
+    "description": "Boost your online presence with strategic content and platform-specific engagement tailored to your audience.",
+    "features": [
+      "Platform Setup & Optimization",
+      "Content Calendar Creation",
+      "Engagement Strategies",
+      "Hashtag Research",
+      "Insights & Reporting"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Advertisements & Campaigns",
+    "slug": "ppc",
+    "icon": "/src/assets/icons/adds-icon.png",
+    "description": "Maximize reach and conversions with impactful ad campaigns across digital platforms.",
+    "features": [
+      "Google & Meta Ads",
+      "Targeted Campaign Planning",
+      "Creative Ad Design",
+      "Budget Optimization",
+      "Performance Tracking"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Creative Reel Production",
+    "slug": "social-media",
+    "icon": "/src/assets/icons/reel-icon.png",
+    "description": "Engage your audience with compelling reels and short-form video content that aligns with your brand identity.",
+    "features": [
+      "Reel Storyboarding",
+      "Video Editing",
+      "Scriptwriting",
+      "Sound & Voice Integration",
+      "Trend-Based Content Creation"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Professional Voice-Over Services",
+    "slug": "web-design",
+    "icon": "/src/assets/icons/voice-icon.png",
+    "description": "Enhance your videos, ads, and brand identity with professional voice-over solutions in multiple languages.",
+    "features": [
+      "Voice Talent Selection",
+      "Script Recording",
+      "Multi-Language Options",
+      "Audio Editing & Cleanup",
+      "Background Music Integration"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Stunning Poster Designs",
+    "slug": "content-marketing",
+    "icon": "/src/assets/icons/poster-icon.png",
+    "description": "Make your brand stand out with visually compelling poster designs for online and offline promotions.",
+    "features": [
+      "Custom Poster Design",
+      "Brand-Aligned Aesthetics",
+      "Social Media Format Adaptation",
+      "Print-Ready Formats",
+      "Creative Visual Elements"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Offline Media & Printing",
+    "slug": "email-marketing",
+    "icon": "/src/assets/icons/print-icon.png",
+    "description": "From flyers to brochures, get high-quality offline marketing materials designed and printed professionally.",
+    "features": [
+      "Print Media Design",
+      "Brochure & Flyer Creation",
+      "Printing Services Coordination",
+      "Business Card Design",
+      "Packaging & Label Design"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Website Design & Development",
+    "slug": "other",
+    "icon": "/src/assets/icons/web-icon.svg",
+    "description": "Build modern, responsive websites tailored to your business goals and user experience expectations.",
+    "features": [
+      "Custom Website Development",
+      "Mobile-Friendly Design",
+      "SEO-Friendly Structure",
+      "CMS Integration",
+      "Maintenance & Support"
+    ]
+  }
+]
