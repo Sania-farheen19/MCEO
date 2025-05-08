@@ -46,7 +46,7 @@ const Footer = () => {
                 <li>
                   <Link to="/about">About Us</Link>
                 </li>
-                <li>
+                {/* <li>
                   <Link to="/portfolio">Our Work</Link>
                 </li>
                 <li>
@@ -54,7 +54,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <Link to="/careers">Careers</Link>
-                </li>
+                </li> */}
                 <li>
                   <Link to="/contact">Contact</Link>
                 </li>
