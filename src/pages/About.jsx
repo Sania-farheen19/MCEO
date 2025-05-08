@@ -44,7 +44,7 @@ const About = () => {
               </div> */}
             </div>
             <div className="about-image">
-              <img src="/src/assets/images/about-image.jpg" alt="Thrive Agency Team" />
+              <img src="/src/assets/images/about-image.jpg" alt="MCEO Team" />
             </div>
           </div>
         </div>
@@ -125,7 +125,7 @@ const About = () => {
         </div>
       </section>
 
-      <section className="team section">
+      {/* <section className="team section">
         <div className="container">
           <div className="section-header">
             <h2 className="section-title">
@@ -208,9 +208,9 @@ const About = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
-      <Testimonials />
+      {/* <Testimonials /> */}
 
       <section className="cta-section">
         <div className="container">
