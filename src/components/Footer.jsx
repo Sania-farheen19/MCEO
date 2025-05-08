@@ -59,13 +59,13 @@ const Footer = () => {
             <div className="footer-column">
               <h3>Contact</h3>
               <address>
-                <p>123 Marketing Street</p>
-                <p>Arlington, TX 76010</p>
+                <p>Kalwakurthy</p>
+                
                 <p>
-                  <a href="tel:866-908-4748">866-908-4748</a>
+                  <a href="tel:80084 08018">80084 08018</a>
                 </p>
                 <p>
-                  <a href="mailto:info@thriveagency.com">info@mceoagency.com</a>
+                  <a href="mailto:mceocrew@gmail.com">mceocrew@gmail.com</a>
                 </p>
               </address>
             </div>
@@ -73,7 +73,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {currentYear} MCEO Agency. All rights reserved.</p>
+          <p>&copy; {currentYear} MCEO. All rights reserved.</p>
           <div className="footer-social">
             <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
@@ -92,7 +92,7 @@ const Footer = () => {
                 <circle cx="4" cy="4" r="2"></circle>
               </svg>
             </a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+            <a href="https://instagram.com/@mceocrew" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
                 <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
                 <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>

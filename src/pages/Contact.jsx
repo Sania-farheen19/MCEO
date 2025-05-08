@@ -93,7 +93,7 @@ const Contact = () => {
                   <div className="info-content">
                     <h3 className="info-title">Email Us</h3>
                     <p className="info-text">
-                      <a href="mailto:info@thriveagency.com">mceocrew@gmail.com</a>
+                      <a href="mailto:mceocrew@gmail.com">mceocrew@gmail.com</a>
                     </p>
                   </div>
                 </div>
